@@ -1,0 +1,7 @@
+Teachable machine collects the data we provide it. We upload pictures with a title and then train it. Once its evaluated we can see how we did, if we gave it the right data or not and then we can improve it if it doesnt seem to do what we wish. 
+Teachable machine has three options to choose from and my first thought was people could use this for differencing rythms, or objects.
+I used the image project and used two different kinds of plushies to tell the difference between them because they can be pretty similar but have their own differences. I thought this would be an adorable project to show my family members so they can carefully choose out a palmpal for me wheenver they go out.
+https://teachablemachine.withgoogle.com/models/tqKMMSOAl/
+I dont have a jelly cat so i was only able to train it to identify a palm pal, so i made a second one just in case.
+This second one was of my dogs to see if it one-hundred percent works which it does.
+https://teachablemachine.withgoogle.com/models/A-QDMTpu_/
